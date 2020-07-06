@@ -1,0 +1,41 @@
+{
+  "name": "juegomemor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "flexy-flipcards": "^0.1.2",
+    "font-awesome": "^4.7.0",
+    "lodash.shuffle": "^4.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-card-flip": "^0.8.0",
+    "react-dom": "^16.8.6",
+    "react-flipcard": "^0.2.1",
+    "react-flipcard-2": "^0.3.2",
+    "react-native-flip-card": "^3.5.5",
+    "react-native-flip-card-view": "0.0.6",
+    "react-scripts": "3.0.1",
+    "react-timeout": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
