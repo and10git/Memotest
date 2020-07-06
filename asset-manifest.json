@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Memotest/static/css/main.92abf971.chunk.css",
+    "main.js": "/Memotest/static/js/main.b1a877ac.chunk.js",
+    "main.js.map": "/Memotest/static/js/main.b1a877ac.chunk.js.map",
+    "runtime~main.js": "/Memotest/static/js/runtime~main.881b3563.js",
+    "runtime~main.js.map": "/Memotest/static/js/runtime~main.881b3563.js.map",
+    "static/css/2.486e11d6.chunk.css": "/Memotest/static/css/2.486e11d6.chunk.css",
+    "static/js/2.49aa455f.chunk.js": "/Memotest/static/js/2.49aa455f.chunk.js",
+    "static/js/2.49aa455f.chunk.js.map": "/Memotest/static/js/2.49aa455f.chunk.js.map",
+    "index.html": "/Memotest/index.html",
+    "precache-manifest.217270db4f89db6e53bb78c10922cf0a.js": "/Memotest/precache-manifest.217270db4f89db6e53bb78c10922cf0a.js",
+    "service-worker.js": "/Memotest/service-worker.js",
+    "static/css/2.486e11d6.chunk.css.map": "/Memotest/static/css/2.486e11d6.chunk.css.map",
+    "static/css/main.92abf971.chunk.css.map": "/Memotest/static/css/main.92abf971.chunk.css.map",
+    "static/media/font-awesome.css": "/Memotest/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
